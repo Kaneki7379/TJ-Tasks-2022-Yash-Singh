@@ -1,0 +1,17 @@
+@media (max-width: 1150px) {
+.devPic{
+    display: none;
+}
+
+.infoContainer, .blogContainer, .contactform{
+    margin: 67px 21px;
+}
+
+.devInfo{
+    font-size: 10px;
+}
+
+.buttons{
+    font-size: 6px;
+}
+}
