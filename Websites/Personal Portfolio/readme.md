@@ -1,0 +1,3 @@
+This is my Personal Portfolio Website created using CSS and HTML.For fonts I have used Google to make the page more attractive.
+ There are three sections Home , About, Contact which can be accessed from navigation panel... 
+ Website is Fully Responsive..
